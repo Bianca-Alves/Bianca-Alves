@@ -1,5 +1,3 @@
-# Bianca Santos Alves
-
 ## Olá! 🙋🏻‍♀️
 
 Sou uma estudante e desenvolvedora de sistemas fascinada por tecnologia. Sempre fui encantada por códigos e amante da ideia de criar algo novo, foi assim que iniciei na programação!
