@@ -37,3 +37,5 @@ Atualmente estou:
   <a href="https://www.linkedin.com/in/bianca-santos-alves-475865230/" target="_blank"><img src="https://img.shields.io/badge/Bianca Santos Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:biasantosalves04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/biasantosalves04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+![Snake animation](https://github.com/Bianca-Alves/Bianca-Alves/blob/output/github-contribution-grid-snake.svg)
