@@ -6,7 +6,7 @@ Atualmente estou:
 
 - ✍🏻 Cursando o terceiro ano do ensino médio com curso técnico em Desenvolvimento de Sistemas
 - 👩🏻‍💻 Buscando aprender e praticar uma nova linguagem de programação
-- 💼 Procurando uma oportunidde de iniciar um estágio na área
+- 💼 Procurando uma oportunidade de iniciar um estágio na área
 
 #
 
