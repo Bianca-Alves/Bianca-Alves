@@ -4,9 +4,9 @@ Sou uma estudante e desenvolvedora de sistemas fascinada por tecnologia. Sempre 
 
 Atualmente estou:
 
-- ✍🏻 Cursando o terceiro ano do ensino médio com curso técnico em Desenvolvimento de Sistemas
+- ✍🏻 Cursando bacharelado em Ciência da Computação
 - 👩🏻‍💻 Buscando aprender e praticar uma nova linguagem de programação
-- 💼 Procurando uma oportunidade de iniciar um estágio na área
+- 💼 Procurando a oportunidade do primeiro emprego na área
 
 #
 
