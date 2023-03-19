@@ -2,7 +2,7 @@
 
 Sou uma estudante e desenvolvedora de sistemas fascinada por tecnologia. Sempre fui encantada por códigos e amante da ideia de criar algo novo, foi assim que iniciei na programação!
 
-Atualmente estou:
+Atualmente, estou:
 
 - ✍🏻 Cursando bacharelado em Ciência da Computação
 - 👩🏻‍💻 Buscando aprender e praticar uma nova linguagem de programação
