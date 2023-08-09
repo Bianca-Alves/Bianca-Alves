@@ -5,8 +5,8 @@ Sou uma estudante e desenvolvedora de sistemas fascinada por tecnologia. Sempre 
 Atualmente, estou:
 
 - ✍🏻 Cursando bacharelado em Ciência da Computação
-- 👩🏻‍💻 Buscando aprender e praticar uma nova linguagem de programação
-- 💼 Procurando a oportunidade do primeiro emprego na área
+- 📚 Buscando aprender e praticar uma nova linguagem de programação
+- 👩🏻‍💻 Trabalhando em algum projeto pessoal
 
 #
 
